@@ -1,0 +1,42 @@
+{
+    "name": "custom-fonts-example-preset",
+    "title": "Custom Fonts: Example Preset",
+    "description": "An example of presets for Custom Fonts ",
+    "author": "arcanist",
+    "authors": [
+        {
+            "name": "arcanist",
+            "url": "https://arcanistzed.github.io/",
+            "email": "arcanistzed@gmail.com",
+            "discord": "arcanist#4317",
+            "reddit": "u/arcanistzed"
+        }
+    ],
+    "url": "This is auto replaced",
+    "license": "https://github.com/arcanistzed/custom-fonts-example-preset/blob/main/LICENSE",
+    "readme": "https://github.com/arcanistzed/custom-fonts-example-preset/blob/main/README.md",
+    "bugs": "https://github.com/arcanistzed/custom-fonts-example-preset/issues/new/choose",
+    "changelog": "https://github.com/arcanistzed/custom-fonts-example-preset/blob/main/CHANGELOG.md",
+    "flags": {
+        "custom-fonts": {
+            "fonts": [
+                "Fresca"
+            ],
+            "directory": "fonts",
+            "primary": "WoodWud",
+            "mono": "Fresca"
+        }
+    },
+    "version": "This is auto replaced",
+    "minimumCoreVersion": "0.7.9",
+    "compatibleCoreVersion": 9,
+    "dependencies": [
+        {
+            "name": "custom-fonts",
+            "type": "module"
+        }
+    ],
+    "manifest": "This is auto replaced",
+    "download": "This is auto replaced",
+    "manifestPlusVersion": "1.2.0"
+}
