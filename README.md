@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/github/v/tag/arcanistzed/custom-fonts-example-preset?label=Version&style=flat-square&color=2577a1) ![Latest Release Download Count](https://img.shields.io/github/downloads/arcanistzed/custom-fonts-example-preset/latest/module.zip?label=Downloads&style=flat-square&color=9b43a8) ![Supported Foundry Versions](https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https://raw.githubusercontent.com/arcanistzed/custom-fonts-example-preset/main/module.json&style=flat-square&color=ff6400) [![Discord Server](https://img.shields.io/badge/-Discord-%232c2f33?style=flat-square&logo=discord)](https://discord.gg/AAkZWWqVav) [![Patreon](https://img.shields.io/badge/-Patreon-%23141518?style=flat-square&logo=patreon)](https://www.patreon.com/bePatron?u=15896855)
 
-An example preset for Custom Fonts
+An example preset for [Custom Fonts](https://github.com/arcanistzed/custom-fonts). This is primarily an example for developers, but can also be used if a user wants to use the WoodWud font. It applies some settings one time when you enable it and then you can keep it disabled and it will still work. If you'd like to uninstall it, please use the "Clear Presets" option in the Custom Fonts settings.
 
 ## Installation
 
